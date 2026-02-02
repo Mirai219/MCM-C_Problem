@@ -1,0 +1,4 @@
+age_scale,scale_factor,spearman_correlation
+minus5,0.95,0.08008977574301872
+baseline,1.0,0.08008977574301872
+plus5,1.05,0.08008977574301872
